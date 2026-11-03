@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora Python",
+  "description": "Calculadora científica e programável com motor Python 3, gráficos de funções f(x), editor de scripts, histórico e ferramentas financeiras e estatísticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
