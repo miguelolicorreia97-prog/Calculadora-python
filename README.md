@@ -1,5 +1,5 @@
 # Calculadora Python
-<img width="1581" height="692" alt="image" src="https://github.com/user-attachments/assets/ef87ad83-3267-43e5-ae28-e31ca206d33e" />
+<img width="1554" height="738" alt="Captura de tela 2026-11-03 180349" src="https://github.com/user-attachments/assets/ff5b4ef6-ede8-435f-a2a1-4d99d1f59fdf" />
 
 
 Calculadora científica e programável que roda os cálculos num **motor Python 3** de verdade, com uma interface web em **React + TypeScript**.
